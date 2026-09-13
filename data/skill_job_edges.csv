@@ -1,0 +1,246 @@
+job_or_skill_1,job_or_skill_2,weight
+job_0,agile,5.25
+job_0,aws,2.62
+job_1,communication,1.62
+job_1,leadership,4.2
+job_1,sql,1.0
+job_1,python,1.17
+job_1,r,4.2
+job_1,tableau,3.0
+job_1,power bi,4.2
+job_2,data modeling,7.0
+job_2,data warehousing,2.62
+job_2,etl,4.2
+job_2,machine learning,2.33
+job_2,python,1.17
+job_2,java,3.0
+job_2,sql,1.0
+job_2,computer science,3.5
+job_3,leadership,4.2
+job_3,communication,1.62
+job_4,python,1.17
+job_4,postgresql,10.5
+job_4,aws,2.62
+job_4,kubernetes,5.25
+job_4,docker,4.2
+job_4,nosql,2.62
+job_4,agile,5.25
+job_4,git,4.2
+job_4,communication,1.62
+job_4,azure,7.0
+job_5,data engineering,3.0
+job_5,agile,5.25
+job_5,java,3.0
+job_5,scala,3.0
+job_5,python,1.17
+job_5,nosql,2.62
+job_5,snowflake,2.62
+job_5,machine learning,2.33
+job_5,sql,1.0
+job_5,hadoop,3.0
+job_5,hive,7.0
+job_5,kafka,4.2
+job_5,spark,3.0
+job_5,mysql,7.0
+job_5,data warehousing,2.62
+job_5,tableau,3.0
+job_6,sql,1.0
+job_7,communication,1.62
+job_8,big data,5.25
+job_8,data engineering,3.0
+job_8,snowflake,2.62
+job_8,sql,1.0
+job_8,nosql,2.62
+job_8,hadoop,3.0
+job_8,git,4.2
+job_8,aws,2.62
+job_8,gcp,10.5
+job_8,databricks,21.0
+job_8,communication,1.62
+job_9,machine learning,2.33
+job_9,communication,1.62
+job_9,computer science,3.5
+job_9,computer vision,7.0
+job_10,data warehousing,2.62
+job_10,java,3.0
+job_10,python,1.17
+job_10,scala,3.0
+job_10,sql,1.0
+job_10,machine learning,2.33
+job_11,java,3.0
+job_11,scala,3.0
+job_11,python,1.17
+job_11,data visualization,3.5
+job_11,hadoop,3.0
+job_11,spark,3.0
+job_11,mysql,7.0
+job_11,kafka,4.2
+job_11,tableau,3.0
+job_11,snowflake,2.62
+job_11,aws,2.62
+job_11,machine learning,2.33
+job_12,data analysis,2.62
+job_12,sql,1.0
+job_12,r,4.2
+job_12,python,1.17
+job_12,data visualization,3.5
+job_12,tableau,3.0
+job_12,power bi,4.2
+job_12,etl,4.2
+job_12,a/b testing,10.5
+job_12,communication,1.62
+job_13,machine learning,2.33
+job_13,deep learning,10.5
+job_13,computer vision,7.0
+job_13,data mining,10.5
+job_13,data analysis,2.62
+job_13,big data,5.25
+job_13,hadoop,3.0
+job_13,spark,3.0
+job_13,java,3.0
+job_13,python,1.17
+job_13,sql,1.0
+job_13,nosql,2.62
+job_13,mongodb,10.5
+job_13,linux,21.0
+job_13,docker,4.2
+job_13,kubernetes,5.25
+job_13,git,4.2
+job_13,communication,1.62
+job_13,leadership,4.2
+job_14,data analysis,2.62
+job_14,statistics,7.0
+job_14,computer science,3.5
+job_14,sql,1.0
+job_14,snowflake,2.62
+job_14,tableau,3.0
+job_14,python,1.17
+job_14,etl,4.2
+job_14,data warehousing,2.62
+job_14,aws,2.62
+job_14,gcp,10.5
+job_14,azure,7.0
+job_14,git,4.2
+job_14,power bi,4.2
+job_14,r,4.2
+job_15,python,1.17
+job_15,java,3.0
+job_15,scala,3.0
+job_15,nosql,2.62
+job_15,snowflake,2.62
+job_15,aws,2.62
+job_15,hadoop,3.0
+job_15,hive,7.0
+job_15,kafka,4.2
+job_15,spark,3.0
+job_15,mysql,7.0
+job_15,sql,1.0
+job_15,mongodb,10.5
+job_16,data analysis,2.62
+job_16,sql,1.0
+job_17,data engineering,3.0
+job_17,python,1.17
+job_17,java,3.0
+job_17,c++,21.0
+job_17,sql,1.0
+job_17,nosql,2.62
+job_17,scala,3.0
+job_17,pandas,10.5
+job_17,seaborn,21.0
+job_17,matplotlib,21.0
+job_17,azure,7.0
+job_17,aws,2.62
+job_17,big data,5.25
+job_18,sql,1.0
+job_18,data analysis,2.62
+job_18,data warehousing,2.62
+job_18,data mining,10.5
+job_18,data visualization,3.5
+job_19,data modeling,7.0
+job_19,machine learning,2.33
+job_19,data visualization,3.5
+job_19,computer science,3.5
+job_19,etl,4.2
+job_20,sql,1.0
+job_20,python,1.17
+job_20,r,4.2
+job_20,nosql,2.62
+job_20,big data,5.25
+job_20,data analysis,2.62
+job_20,data visualization,3.5
+job_20,communication,1.62
+job_20,statistics,7.0
+job_20,computer science,3.5
+job_20,tableau,3.0
+job_20,power bi,4.2
+job_20,spark,3.0
+job_20,scala,3.0
+job_21,sql,1.0
+job_21,python,1.17
+job_21,hadoop,3.0
+job_21,scala,3.0
+job_21,snowflake,2.62
+job_21,airflow,10.5
+job_21,kafka,4.2
+job_21,machine learning,2.33
+job_22,python,1.17
+job_22,communication,1.62
+job_23,project management,21.0
+job_23,communication,1.62
+job_23,leadership,4.2
+job_24,data modeling,7.0
+job_24,data warehousing,2.62
+job_24,data visualization,3.5
+job_24,sql,1.0
+job_24,data engineering,3.0
+job_24,hive,7.0
+job_24,hadoop,3.0
+job_24,spark,3.0
+job_24,nosql,2.62
+job_24,communication,1.62
+job_24,postgresql,10.5
+job_25,sql,1.0
+job_25,power bi,4.2
+job_25,data engineering,3.0
+job_25,data warehousing,2.62
+job_25,data analysis,2.62
+job_25,leadership,4.2
+job_26,python,1.17
+job_26,data engineering,3.0
+job_26,snowflake,2.62
+job_26,airflow,10.5
+job_26,kubernetes,5.25
+job_26,docker,4.2
+job_26,spark,3.0
+job_26,sql,1.0
+job_26,kafka,4.2
+job_26,etl,4.2
+job_27,sql,1.0
+job_27,tableau,3.0
+job_27,python,1.17
+job_28,data analysis,2.62
+job_28,statistics,7.0
+job_28,data warehousing,2.62
+job_28,computer vision,7.0
+job_28,communication,1.62
+job_28,python,1.17
+job_28,sql,1.0
+job_28,numpy,21.0
+job_28,pandas,10.5
+job_28,pytorch,21.0
+job_28,docker,4.2
+job_28,snowflake,2.62
+job_28,computer science,3.5
+job_29,machine learning,2.33
+job_29,a/b testing,10.5
+job_29,data engineering,3.0
+job_29,nlp,21.0
+job_29,deep learning,10.5
+job_29,python,1.17
+job_29,sql,1.0
+job_29,r,4.2
+job_29,aws,2.62
+job_29,kubernetes,5.25
+job_29,docker,4.2
+job_29,git,4.2
+job_29,agile,5.25

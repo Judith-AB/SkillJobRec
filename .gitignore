@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+data/archive*.zip
+data/job_postings.csv
+data/job_skills.csv
+data/job_summary.csv
