@@ -1,6 +1,6 @@
 # Job Recommendation Using Skill-Job Bipartite Graphs
 
-A Graph Mining (23CSE451) case study that models job postings and their required skills as a **bipartite graph**, then uses graph-based link prediction to recommend jobs to a candidate based on their skill set.
+A Graph Mining case study that models job postings and their required skills as a **bipartite graph**, then uses graph-based link prediction to recommend jobs to a candidate based on their skill set.
 
 ## Problem Statement
 
